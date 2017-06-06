@@ -1,1 +1,1 @@
-Nibbleblog-Muse
+blog

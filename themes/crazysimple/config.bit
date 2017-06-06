@@ -1,0 +1,15 @@
+<?php
+
+$theme = array
+(
+	'name'=>'CrazySimple',
+	'description'=>'Designed by Mike Stursberg',
+	'author'=>'',
+	'version'=>'1.0',
+	'last_update'=>'06/05/2017', // dd/mm/yyyy
+	'url'=>'#', // http://xxxxxxxxxxxxx
+	'template'=>array('blog'=>'default.bit', 'post'=>'default.bit', 'page'=>'default.bit'),
+	'version_supported'=>array('4.0', '4.0.1') // Nibbleblog version supported
+);
+
+?>

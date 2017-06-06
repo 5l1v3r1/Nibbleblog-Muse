@@ -1,0 +1,37 @@
+[05-Jun-2017 13:17:58 UTC] Nibbleblog: Blacklist - New IP added - 98.122.120.24
+[05-Jun-2017 13:18:02 UTC] Nibbleblog: Blacklist - IP fail count(2) - 98.122.120.24
+[05-Jun-2017 10:11:22 America/New_York] Nibbleblog: Blacklist - IP renewed because is expired - 98.122.120.24
+[05-Jun-2017 14:30:17 America/New_York] Nibbleblog: Blacklist - IP renewed because is expired - 98.122.120.24
+[05-Jun-2017 14:30:23 America/New_York] Nibbleblog: Blacklist - IP fail count(2) - 98.122.120.24
+[05-Jun-2017 14:30:28 America/New_York] Nibbleblog: Blacklist - IP fail count(3) - 98.122.120.24
+[05-Jun-2017 14:30:50 America/New_York] Nibbleblog: Blacklist - IP fail count(4) - 98.122.120.24
+[05-Jun-2017 14:30:56 America/New_York] Nibbleblog: Blacklist - IP fail count(5) - 98.122.120.24
+[05-Jun-2017 14:38:08 America/New_York] Nibbleblog: Blacklist - IP renewed because is expired - 98.122.120.24
+[05-Jun-2017 14:38:11 America/New_York] Nibbleblog: Blacklist - IP fail count(2) - 98.122.120.24
+[05-Jun-2017 14:38:13 America/New_York] Nibbleblog: Blacklist - IP fail count(3) - 98.122.120.24
+[05-Jun-2017 14:38:55 America/New_York] Nibbleblog: Blacklist - IP fail count(4) - 98.122.120.24
+[05-Jun-2017 14:38:56 America/New_York] Nibbleblog: Blacklist - IP fail count(5) - 98.122.120.24
+[05-Jun-2017 18:45:19 UTC] PHP Warning:  SimpleXMLElement::__construct(): ./content/private/users.xml:3: parser error : Start tag expected, '&lt;' not found in /home/brcrisk/public_html/sodacitylaw.com/blog/admin/kernel/db/db_users.class.php on line 33
+[05-Jun-2017 18:45:19 UTC] PHP Warning:  SimpleXMLElement::__construct():  in /home/brcrisk/public_html/sodacitylaw.com/blog/admin/kernel/db/db_users.class.php on line 33
+[05-Jun-2017 18:45:19 UTC] PHP Warning:  SimpleXMLElement::__construct(): ^ in /home/brcrisk/public_html/sodacitylaw.com/blog/admin/kernel/db/db_users.class.php on line 33
+[05-Jun-2017 18:45:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/brcrisk/public_html/sodacitylaw.com/blog/admin/kernel/db/db_users.class.php:33
+Stack trace:
+#0 /home/brcrisk/public_html/sodacitylaw.com/blog/admin/kernel/db/db_users.class.php(33): SimpleXMLElement->__construct('./content/priva...', 0, true, '', false)
+#1 /home/brcrisk/public_html/sodacitylaw.com/blog/admin/boot/rules/2-objects.bit(84): DB_USERS->DB_USERS('./content/priva...')
+#2 /home/brcrisk/public_html/sodacitylaw.com/blog/admin/boot/blog.bit(6): require_once('/home/brcrisk/p...')
+#3 /home/brcrisk/public_html/sodacitylaw.com/blog/index.php(20): require('/home/brcrisk/p...')
+#4 {main}
+  thrown in /home/brcrisk/public_html/sodacitylaw.com/blog/admin/kernel/db/db_users.class.php on line 33
+[05-Jun-2017 18:45:27 UTC] PHP Warning:  SimpleXMLElement::__construct(): ./content/private/users.xml:3: parser error : Start tag expected, '&lt;' not found in /home/brcrisk/public_html/sodacitylaw.com/blog/admin/kernel/db/db_users.class.php on line 33
+[05-Jun-2017 18:45:27 UTC] PHP Warning:  SimpleXMLElement::__construct():  in /home/brcrisk/public_html/sodacitylaw.com/blog/admin/kernel/db/db_users.class.php on line 33
+[05-Jun-2017 18:45:27 UTC] PHP Warning:  SimpleXMLElement::__construct(): ^ in /home/brcrisk/public_html/sodacitylaw.com/blog/admin/kernel/db/db_users.class.php on line 33
+[05-Jun-2017 18:45:27 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/brcrisk/public_html/sodacitylaw.com/blog/admin/kernel/db/db_users.class.php:33
+Stack trace:
+#0 /home/brcrisk/public_html/sodacitylaw.com/blog/admin/kernel/db/db_users.class.php(33): SimpleXMLElement->__construct('./content/priva...', 0, true, '', false)
+#1 /home/brcrisk/public_html/sodacitylaw.com/blog/admin/boot/rules/2-objects.bit(84): DB_USERS->DB_USERS('./content/priva...')
+#2 /home/brcrisk/public_html/sodacitylaw.com/blog/admin/boot/blog.bit(6): require_once('/home/brcrisk/p...')
+#3 /home/brcrisk/public_html/sodacitylaw.com/blog/index.php(20): require('/home/brcrisk/p...')
+#4 {main}
+  thrown in /home/brcrisk/public_html/sodacitylaw.com/blog/admin/kernel/db/db_users.class.php on line 33
+[05-Jun-2017 14:48:49 America/New_York] Nibbleblog: Blacklist - New IP added - 98.122.120.24
+[05-Jun-2017 14:48:53 America/New_York] Nibbleblog: Blacklist - IP fail count(2) - 98.122.120.24

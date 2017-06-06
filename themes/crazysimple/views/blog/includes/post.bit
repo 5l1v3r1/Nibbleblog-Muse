@@ -1,0 +1,28 @@
+
+
+
+	<article class="post" id="printArea">
+
+	<header class="post">
+		<h1 class="title"><a href="<?php echo Post::permalink() ?>"><?php echo Post::title() ?></a></h1>
+		<!--<div class="date"><?php echo Post::published() ?></div>-->
+	</header>
+
+	<div class="post-content">
+		<?php echo Post::content() ?>
+	</div>
+
+<div class="printBtn">Print This</div> 
+	<footer class="post">
+
+		<span>
+			<span class="blog-footer"><a class="top" href="#">Go To Top</a></span>
+
+			</span>
+
+
+
+
+	</footer>
+
+</article>
